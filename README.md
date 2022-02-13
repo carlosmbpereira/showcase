@@ -9,5 +9,8 @@
 ## Projecto antigo
   Descontinuado
 
+## Nova feature
+	A aguardar projectos
+
 ## Projecto 3
   A ser colocado aqui no futuro
