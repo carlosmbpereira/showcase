@@ -1,19 +1,19 @@
 # showcase
 
-## Projecto bolinhas:
+## 1 - Projecto bolinhas:
   Desc 1
   Codigo Gis ou Repo:
   https://gist.github.com/masterdbpereira/f15baef8eb64a8ab56700ce82c3c71cc
   
 
-## Projecto antigo
+## 2 - Projecto antigo
   Descontinuado
 
-## Nova feature
+## 3 - Nova feature
 	A aguardar projectos
 
-## Projecto 3
+## 4 - Projecto 3
   A ser colocado aqui no futuro
 
-## feature 2
+## 5 - feature 2
 	Nova feature2
