@@ -7,5 +7,4 @@
   
 
 ## Projecto nodeJs
-  desc 2
-  https://github.com/AlexandreP111/WeNote-NJSServer
+  Descontinuado
