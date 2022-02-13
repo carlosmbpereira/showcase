@@ -11,3 +11,6 @@
 
 ## Projecto 3
   A ser colocado aqui no futuro
+
+## feature 2
+	Nova feature2
